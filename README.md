@@ -1,5 +1,5 @@
 # AgroNet
-Aluno dev Kayk Cruz Fernandes do Colégio Cívico Militar Moralina Eleutério de Santo Antônio da Platina - Paraná
+Aluno dev Kayk Cruz Fernandes do Colégio Cívico Militar Moralina Eleutério da turma do 3º ano A do ensino médio de Santo Antônio da Platina - Paraná
 Meu projeto é um web site de notícias do Agrinho 2025: Conexão Campo e Cidade do Paraná
 Imagens Usadas No Site:
 Praticamente todas as imagens do site foram geradas com IA copilot
